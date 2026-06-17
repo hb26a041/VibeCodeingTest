@@ -1,0 +1,6 @@
+{
+  "name": "Motherboard Defender",
+  "description": "PCの基盤の中でウイルスの侵略からパーツを守る2Dシューティングゲーム。パーツが壊れるほどゲーム画面やUIがバグり、カオスになっていくシステムを搭載。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
